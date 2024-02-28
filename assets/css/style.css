@@ -22,19 +22,19 @@
 
   --cadet-blue-crayola: hsl(240, 10%, 70%);
   --gold-web-golden: hsl(50, 100%, 54%);
-  --vivid-sky-blue: hsl(196, 84%, 63%);
-  --midnight-blue: hsl(231, 83%, 25%);
-  --minion-yellow: hsl(50, 100%, 64%);
+  --vivid-sky-blue: hsl(149, 84%, 63%);
+  --midnight-blue: hsl(151, 83%, 25%);
+  --minion-yellow: hsl(90, 100%, 64%);
   --independence: hsl(225, 24%, 27%);
-  --orange-soda: hsl(7, 96%, 61%);
+  --orange-soda: hsl(67, 96%, 61%);
   --space-cadet: hsl(243, 23%, 18%);
   --fiery-rose: hsl(353, 83%, 65%);
-  --klein-blue: hsl(230, 80%, 39%);
+  --klein-blue: hsl(210, 80%, 39%);
   --bluetiful: hsl(222, 88%, 55%);
   --glaucous: hsl(230, 52%, 63%);
-  --manatee: hsl(254, 7%, 65%);
+  --manatee: hsl(254, 7%, 89%);
   --rufous: hsl(2, 85%, 35%);
-  --black: hsl(0, 0%, 0%);
+  --black: hsl(0, 50%, 50%);
   --white: hsl(0, 0%, 100%);
 
   /**
